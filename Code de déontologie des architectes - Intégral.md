@@ -1,5 +1,5 @@
 # Code de déontologie des architectes  
-Version Consolidée au 1980-03-25
+Version Consolidée au 1992-09-23
 
 # Code de déontologie des architectes.
 
@@ -156,6 +156,30 @@ il est inscrit au tableau de l'ordre et les autres diplômes, certificats, titre
 	**Codifié par**:
 
 	  - Décret n°80-217 1980-03-20
+
+
+###### Article 10 bis
+
+Les architectes peuvent recourir à la publicité dans le cadre de la législation et de la réglementation en vigueur, notamment
+l'article 44 (1) de la loi n° 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat modifiée.
+
+**Nota:**
+
+(1) Article abrogé par la loi n° 93-949 du 26 juillet 1993 art. 4.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°73-1193 du 27 décembre 1973 - art. 44 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°80-217 1980-03-20
+
+	**Créé par**:
+
+	  - Décret n°92-1009 du 17 septembre 1992 - art. 2 () JORF 23 septembre 1992
 
 
 ### Section 2 : Devoirs envers les clients.
@@ -407,34 +431,6 @@ compte d'une personne publique.
 	**Codifié par**:
 
 	  - Décret n°80-217 1980-03-20
-
-
-###### Article 26
-
-La publicité faite par un architecte ne peut être fondée que sur ses réalisations ou projets. Elle ne doit pas être de nature
-à mettre directement en cause l'activité d'autres architectes ou de tiers. Les frais qu'elle entraîne doivent être à la
-charge exclusive de l'architecte. 
-
-Ne sont pas considérés comme une publicité faite par l'architecte    :
-
-- les oeuvres à caractère littéraire ;
-
-- les oeuvres d'architectes citées par des tiers à titre d'exemple pour promouvoir leurs produits ou réalisations ;
-
-- les articles, reportages, entretiens radio-télévisés, écrits ou réalisés à l'initiative de tiers dans un but d'information
-ou dans le cadre de l'actualité quand l'intervention de l'architecte est motivée et gratuite. 
-
-Toute publicité mensongère ou contraire à la confraternité est interdite.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°80-217 1980-03-20
-
-	**Abrogé par**:
-
-	  - Décret n°92-1009 du 17 septembre 1992 - art. 2 () JORF 23 septembre 1992
 
 
 ### Section 4 : Relations avec l'ordre et les administrations publiques.
